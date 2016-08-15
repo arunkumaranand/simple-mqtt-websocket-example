@@ -1,7 +1,7 @@
 // host = '172.16.153.122';	// hostname or IP address
-host = '127.0.0.1';	// hostname or IP address
+host = '192.168.1.107';	// hostname or IP address
 // host = '172.16.153.110';	// hostname or IP address
-port = 9001;
+port = 9000;
 topic = '#';		// topic to subscribe to
 useTLS = false;
 username = null;
